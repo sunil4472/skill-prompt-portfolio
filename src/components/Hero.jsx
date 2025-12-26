@@ -25,7 +25,7 @@ const Hero = () => {
         <p className="text-gray-700 text-lg max-w-xl">
           With <strong className="text-blue-600">3+ years</strong> of
           experience, I've built solutions for startups, agencies, and freelance
-          clients worldwide. I am working in Graphilla Technology as Frontend Developer.
+          clients worldwide. I am working in Graphilla Technology as Frontend Developer from Aug 2025 to Present.
         </p>
 
         <div className="flex gap-6 mt-4 text-2xl">
