@@ -27,7 +27,7 @@ const ContactPage = () => {
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Your Email
+                  Your Email Address
                 </label>
                 <input
                   type="email"
